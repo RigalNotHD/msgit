@@ -1,0 +1,122 @@
+body {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWCMTzoU7vg8Rbjo6ha6h5QTEdwkKTf3-tcw&usqp=CAU);
+text-align: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.firsta h1:hover {
+    color: rgb(0, 255, 157);
+}
+.firsta
+{
+    color: black;
+    text-decoration: none;
+}
+
+.knigas
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.knigas div a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.firstimg a:hover {
+    color: #7700ff;
+}
+
+.blackmn a:hover {
+    color: #36a09b;
+}
+
+.deadins a:hover {
+    color: #ff0000;
+}
+
+.sitename {
+    background-color: rgb(0, 162, 255);
+    color: #ffffff;
+}
+
+.sitename:hover{
+    color: #36a09b;
+}
+
+.firstimg {
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blackmn {
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.deadins {
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.arrow1 {
+    margin: 5px;
+    padding: 0px;
+    font-size: 30pt;
+}
+
+.arrow2 {
+    font-size: 30pt;
+    margin: 10px;
+    padding: 0px;
+}
+
+.arrow3 {
+    margin: 10px;
+    padding: 0px;   
+    font-size: 30pt;
+}
+
+#otstup1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*=====================================================================================================================================*/
+/*                                                            Site №2                                                                  */
+/*                                                            ↓↓↓↓↓↓↓                                                                  */
+/*=====================================================================================================================================*/
+
+#nameoknigas {
+    font-size: 30pt;
+}
+
+.class21
+{
+    text-align: center;
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#costoknigas {
+    font-size: 15pt;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.backbutton {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    color: rgb(76, 0, 255);
+    text-decoration: none;
+    width: 6%;
+    height: 1%;
+}
